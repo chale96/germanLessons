@@ -1,6 +1,6 @@
 ## Das Alphabet:
 []()  | 
-------|------
+--- | --- | --- | --- | --- | --- |
 | A = [a]   | F = [ef]  | K = [ka] | P = [pe] | U = [u]        | Z = [tset]    |
 | B = [be]  | G = [ge]  | L = [el] | Q = [ku] | V = [fau]      | ß = [es'tset] |
 | C = [tse] | H = [ha]  | M = [em] | R = [er] | W = [ve]       | Ä = [e]       |
