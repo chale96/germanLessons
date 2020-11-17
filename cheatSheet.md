@@ -26,8 +26,8 @@
 | Fragen (questions)                                | Antworten (answers)                              |
 | ------------------------------------------------- | ------------------------------------------------ |
 | Wie gehts? (how are you?)                         | Sehr gut, danke! (very good, thanks!) \*          |
-| Wie heißes Tu? (Where are you from?)              | Ich  heiß in *Stadt* dat ist in *Land* (I'm from *city* which is in *country*) |
-| Wo wohns To jetzt? (Where do you live now?)       | Ich wohne jetzt in *Stadt* (I'm living in *Land*) |
+| Wie heißes Tu? (Where are you from?)              | Ich  heiß in [Stadt] dat ist in [Land] (I'm from [city] which is in [country]) |
+| Wo wohns To jetzt? (Where do you live now?)       | Ich wohne jetzt in [Stadt] (I'm living in [Land]) |
 | Wie ist deine Handynummer? (What is your number?) |                                         |
 
 
