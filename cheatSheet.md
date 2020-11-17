@@ -23,13 +23,16 @@
 | 50 [fünfzig] | 80 [achtzig] | 234 [(zwei)hundert-vier_und_dreißig] |
 
 ## Konversation
-| Fragen (questions)                                | Antworten (answers)                                  |
-| ------------------------------------------------- | ---------------------------------------------------- |
-| Wie gehts? (how are you?)                         | Sehr gut, danke! (very good, thanks!) \*             |
-| Wie heißes Tu? (Where are you from?)              | Ich  heiß in [Stadt] dat ist in [Land]               |
-|                                                   | (I'm from [city] which is in [country])              |
-| Wo wohns To jetzt? (Where do you live now?)       | Ich wohne jetzt in [Stadt] (I'm living in [Land])    |
-| Wie ist deine Handynummer? (What is your number?) | Mine Handynummer ist [H.num.] (My number is [p.num.])|
+| Fragen (questions)                                | Antworten (answers)                                   |
+| ------------------------------------------------- | ----------------------------------------------------- |
+| Wie gehts? (how are you?)                         | Sehr gut, danke! (very good, thanks!) \*              |
+| Wie heißes Tu? (Where are you from?)              | Ich  heiß in [Stadt] dat ist in [Land]                |
+|                                                   | (I'm from [city] which is in [country])               |
+| Wo wohns To jetzt? (Where do you live now?)       | Ich wohne jetzt in [Stadt] (I'm living in [Land])     |
+| Wie ist deine Handynummer? (What is your number?) | Mine Handynummer ist [H.num.] (My number is [p.num.]) |
+| Bist du verheiratet? (Are you married?)           | Ich bin seit Nummer] Jahren verheiratet               |
+|                                                   | (I have been married for [number] years)              |
+
 
 
 ## * Wie geht's? (how are you?)
@@ -46,3 +49,28 @@
 * Sher schelecht. (Very bad)
 * mies (bad)
 * grottenschlecht (really bad)
+
+## Verbale Konjugation
+### Present
+| Sein      | []() |
+| --------- | ---- |
+| ich       | bin  |
+| du        | bist |
+| er/sie/es | ist  |
+| wir       | sind |
+| seid      | seid |
+| Sie       | sind |
+
+
+
+## Presentation
+Hallo! Ich heiße Alessandro Candeloro. Ich wohne jetzt in Pescara an der Ostküste (host-cust) Italiens.
+
+Ich Meine Muttersprache ist Italienisch.
+Ich spreche auch ein bisschen Spanich und ich kann ein bisschen verstehen.
+Ich spreche fließend Engkisch und ich kenne 3 [drei] Wörter auf Japanisch.
+
+Ich studiere Cybersicherheit (zik-ha-rahit) an der City University in London.
+Ich mache Online-Vorträge (for-tri-ghe), die stressing sind.
+Ich höre indie Rock Musik und spiele Violine und Gitarre.
+Mine Glückszahl (lucky number) ist 12 [zwölf]
